@@ -10,11 +10,11 @@ This is a simple project from <a href="www.freecodecamp.com">freecodecamp</a> fo
 <ul>Run the project</ul>
 <ul>Click the link</ul>
 <ul>Enjoy (if you want to)</ul>
-<ol>
+</ol>
 
 <h2>NOTES</h2>
 <ol>
 <ul>Make sure you have node installed</ul>
 <ul>to run test, type: npm run test</ul>
 
-<ol>
+</ol>
